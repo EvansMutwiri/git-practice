@@ -3,3 +3,9 @@ h1 {
   font-weight: 800;
   font-family: sans-serif;
 }
+
+ol {
+  background: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  -webkit-background-clip: text;
+  color: transparent;
+}
