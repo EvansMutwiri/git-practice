@@ -1,3 +1,7 @@
+html {
+  background: #FAD7A0;
+}
+
 h1 {
   color: blue;
   font-weight: 800;
@@ -8,4 +12,5 @@ ol {
   background: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
   -webkit-background-clip: text;
   color: transparent;
+  line-height: 1.4;
 }
